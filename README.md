@@ -32,7 +32,7 @@ The ESP32 is a module that operates with Wi-Fi and Bluetooth. When connected to 
 However, please remember that the author bears no responsibility for any potentially damaged boards; you undertake all actions at your own risk!
 
 1. To start, you need to desolder the metal cover from your ESP32 (or ESP8266).  
-   ![esp32 metal cover](esp32_cover)
+   ![esp32 metal cover](esp32_cover.png)
 
 2. Now, please open your Flipper Zero and disassemble it down to the main board with the display and buttons. For a detailed example of how to do this, refer to the following video: [video](https://www.youtube.com/watch?v=Jqfxk0_ppBc)
 
