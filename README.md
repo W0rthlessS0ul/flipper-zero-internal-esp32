@@ -5,7 +5,8 @@ This repository will demonstrate how to install an ESP32 inside the Flipper Zero
 
 ## 📚 Table of Contents
 - [🚀 What Will This Bring Me?](#-what-will-this-bring-me)
-- [🛠️ What Types of Boards Would Be Suitable?](#️what-types-of-boards-would-be-suitable)
+- [🛠️ What Types of Boards Would Be Suitable?](#️-what-types-of-boards-would-be-suitable)
+- [📋 list of components.](#️-list-of-components)
 - [🧑‍🔧 Let's Get Started with Soldering!](#-lets-get-started-with-soldering)
 - [🎉 final outcome](#-final-outcome)
 - [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
@@ -28,7 +29,14 @@ The ESP32 is a module that operates with Wi-Fi and Bluetooth. When connected to 
 *Note: If you're using the ESP8266, you won't be able to access certain features, such as handshake capture.*
 
 -----
+## 📋 list of components.
+![esp32-wroom-32](esp32-wroom.png)
+[esp32-wroom-32](https://sl.aliexpress.ru/p?key=G8OasiD)
 
+![transformer](transformer.png)
+[transformer](https://sl.aliexpress.ru/p?key=HQOas0q)
+
+-----
 ## 🧑‍🔧 Let's Get Started with Soldering!
 However, please remember that the author bears no responsibility for any potentially damaged boards; you undertake all actions at your own risk!
 
