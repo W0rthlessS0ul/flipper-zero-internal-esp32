@@ -31,9 +31,11 @@ The ESP32 is a module that operates with Wi-Fi and Bluetooth. When connected to 
 -----
 ## 📋 list of components.
 ![esp32-wroom-32](esp32-wroom.png)
+
 [esp32-wroom-32](https://sl.aliexpress.ru/p?key=G8OasiD)
 
 ![transformer](transformer.png)
+
 [transformer](https://sl.aliexpress.ru/p?key=HQOas0q)
 
 -----
