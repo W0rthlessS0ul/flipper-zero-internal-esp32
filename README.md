@@ -37,7 +37,7 @@ However, please remember that the author bears no responsibility for any potenti
 2. Now, please open your Flipper Zero and disassemble it down to the main board with the display and buttons. For a detailed example of how to do this, refer to the following video: [video](https://www.youtube.com/watch?v=Jqfxk0_ppBc)
 
 3. Now, arrange the ESP32 and the 5V to 3.3V converter on the motherboard.  
-   ![esp32_install.png](esp32_install)
+   ![esp32_install](esp32_install.png)
 
 4. Now, please solder the ESP32 converter to the Flipper Zero as shown.
 
