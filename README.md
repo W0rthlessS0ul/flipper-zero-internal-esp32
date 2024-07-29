@@ -78,6 +78,8 @@ However, please remember that the author bears no responsibility for any potenti
 ## 🎉 final outcome
 ![final outcome](final_outcome.png)
 
+![final outcome2](final_outcome2.png)
+
 -----
 ## ❤️ Thank You for Your Support!
 If you appreciate this project and want to show your support, consider buying me a cup of coffee! ☕ 
