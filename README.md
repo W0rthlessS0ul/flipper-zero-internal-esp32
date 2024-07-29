@@ -61,7 +61,7 @@ However, please remember that the author bears no responsibility for any potenti
 6. Now, assemble the Flipper and, by entering the [ESP32]WiFi Marauder, you will be able to utilize the ESP32.
 
 -----
-## final outcome
+## 🎉 final outcome
 ![final outcome](final_outcome.png)
 
 -----
