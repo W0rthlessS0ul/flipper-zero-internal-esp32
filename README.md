@@ -7,6 +7,7 @@ This repository will demonstrate how to install an ESP32 inside the Flipper Zero
 - [🚀 What Will This Bring Me?](#-what-will-this-bring-me)
 - [🛠️ What Types of Boards Would Be Suitable?](#️what-types-of-boards-would-be-suitable)
 - [🧑‍🔧 Let's Get Started with Soldering!](#-lets-get-started-with-soldering)
+- [🎉 final outcome](#-final-outcome)
 - [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
