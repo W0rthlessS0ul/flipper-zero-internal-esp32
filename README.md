@@ -37,7 +37,7 @@ However, please remember that the author bears no responsibility for any potenti
 2. Now, please open your Flipper Zero and disassemble it down to the main board with the display and buttons. For a detailed example of how to do this, refer to the following video: [video](https://www.youtube.com/watch?v=Jqfxk0_ppBc)
 
 3. Now, arrange the ESP32 and the 5V to 3.3V converter on the motherboard.  
-   ![esp32_install](esp32_install)
+   ![esp32_install.png](esp32_install)
 
 4. Now, please solder the ESP32 converter to the Flipper Zero as shown.
 
@@ -58,10 +58,13 @@ However, please remember that the author bears no responsibility for any potenti
 
 5. Now, we need to connect GPIO 0 to GND using tweezers or a wire on the ESP32. Then, switch to the ESP32 flasher on the Flipper and select the Marauder firmware to install.
 
-6. Now, assemble the Flipper and, by entering the ESP32 Marauder, you will be able to utilize the ESP32.
+6. Now, assemble the Flipper and, by entering the [ESP32]WiFi Marauder, you will be able to utilize the ESP32.
 
 -----
+## final outcome
+![final outcome](final_outcome.png)
 
+-----
 ## ❤️ Thank You for Your Support!
 If you appreciate this project and want to show your support, consider buying me a cup of coffee! ☕ 
 
