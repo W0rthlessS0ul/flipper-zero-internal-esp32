@@ -30,13 +30,14 @@ The ESP32 is a module that operates with Wi-Fi and Bluetooth. When connected to 
 
 -----
 ## 📋 list of components.
+ESP32-WROOM-32
 ![esp32-wroom-32](esp32-wroom.png)
 
 [esp32-wroom-32](https://sl.aliexpress.ru/p?key=G8OasiD)
 
+-----
 
-
-
+Transformer from 5V to 3.3V
 ![transformer](transformer.png)
 
 [transformer](https://sl.aliexpress.ru/p?key=HQOas0q)
@@ -48,7 +49,7 @@ However, please remember that the author bears no responsibility for any potenti
 1. To start, you need to desolder the metal cover from your ESP32 (or ESP8266).  
    ![esp32 metal cover](esp32_cover.png)
 
-2. Now, please open your Flipper Zero and disassemble it down to the main board with the display and buttons. For a detailed example of how to do this, refer to the following video: [video](https://www.youtube.com/watch?v=Jqfxk0_ppBc)
+2. Now, open the Flipper Zero and disassemble it down to the main board with the display and buttons. For a detailed example of how to do this, refer to the article provided: [article](https://habr.com/ru/articles/599791/)
 
 3. Now, arrange the ESP32 and the 5V to 3.3V converter on the motherboard.  
    ![esp32_install](esp32_install.png)
