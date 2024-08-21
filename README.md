@@ -93,3 +93,5 @@ Every donation you make is deeply appreciated and will help in the ongoing devel
 Stay connected and receive the latest updates:
 
 [![GitHub](https://img.shields.io/badge/GitHub-W0rthlessS0ul-181717?style=flat&logo=github&logoColor=white)](https://github.com/W0rthlessS0ul)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul%2Fflipper-zero-internal-esp32&countColor=%232ccce4&style=flat-square)
+
