@@ -1,4 +1,10 @@
-# ⚡ Installing ESP32 Inside Flipper Zero ⚡
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/176677387" width="150" height="auto" />
+  <h1> ⚡ Installing ESP32 Inside Flipper Zero ⚡ </h1>
+</div>
+
+-----
+
 Welcome to the **ESP32 Installation Guide** for Flipper Zero! 🎉  
 This repository will demonstrate how to install an ESP32 inside the Flipper Zero.
 
