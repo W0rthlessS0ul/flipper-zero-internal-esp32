@@ -14,7 +14,7 @@ This repository will demonstrate how to install an ESP32 inside the Flipper Zero
 - [📋 list of components.](#️-list-of-components)
 - [🧑‍🔧 Let's Get Started with Soldering!](#-lets-get-started-with-soldering)
 - [🎉 final outcome](#-final-outcome)
-- [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
+- [❤️ Support the project](#-support-the-project)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
 -----
@@ -85,7 +85,7 @@ However, please remember that the author bears no responsibility for any potenti
 ![final outcome2](final_outcome2.png)
 
 -----
-## ❤️ Thank You for Your Support!
+## ❤️ Support the project
 If you would like to show your support, you can star my repository or follow me! If you appreciate this project, consider buying me a cup of coffee to keep the energy flowing! ☕ Thank you for your support!
 
 
